@@ -5,15 +5,15 @@
 
 ## Overview
 
-$\color{Apricot}{Key\ Questions\ and\ Objectives.}$
+- $\color{Apricot}{Key\ Questions\ and\ Objectives.}$
 
-$\color{Purple}{Reports.}$
+- $\color{Purple}{Reports.}$
 
-$\color{Aquamarine}{Insights.}$
+- $\color{Aquamarine}{Insights.}$
 
-$\color{blue}{Recommendation.}$
+- $\color{blue}{Recommendation.}$
 
-$\color{green}{Conclusion.}$
+- $\color{green}{Conclusion.}$
 
 Source: [Online-Sales-Dataset][https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data]
 
